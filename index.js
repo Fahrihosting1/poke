@@ -5,10 +5,10 @@ const PORT = process.env.PORT || 3000;
 
 // Const untuk data respons
 const apiInfo = {
-    secretCode: "HamzAS",
+    secretCode: "nazilacrash",
     description: "PREMIUM KEY",
-    lastUpdated: "2025-04-04",
-    author: "Hamz",
+    lastUpdated: "2025-04-20",
+    author: "Nazila",
     status: "Active",
     license: "MIT",
     version: "1.0.0"
