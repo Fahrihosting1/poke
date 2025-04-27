@@ -12,8 +12,8 @@ const apiInfo = {
     status: "Active",
     license: "MIT",
     version: "1.0.0",
-    password: "M",
-    username: "M"
+    password: "RIKZ",
+    username: "RIKZC2"
 };
 
 // Endpoint untuk langsung membaca data
