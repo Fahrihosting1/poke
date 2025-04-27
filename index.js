@@ -11,7 +11,9 @@ const apiInfo = {
     author: "Nazila",
     status: "Active",
     license: "MIT",
-    version: "1.0.0"
+    version: "1.0.0",
+    password: "M",
+    username: "M"
 };
 
 // Endpoint untuk langsung membaca data
