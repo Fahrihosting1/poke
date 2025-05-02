@@ -13,7 +13,8 @@ const apiInfo = {
     license: "MIT",
     version: "1.0.0",
     password: "RIKZ",
-    username: "RIKZC2"
+    username: "RIKZC2",
+    passwor: "vamzspec"
 };
 
 // Endpoint untuk langsung membaca data
